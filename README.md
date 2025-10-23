@@ -44,11 +44,18 @@ The U-Net model is employed due to its effectiveness in image-to-image translati
 
 ````
 
+### showcase
+
+![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results1.png)
+![images](https://github.com/MahdisSep/U-Net-Facial-Image-Denoising/blob/main/results/results2.png)
+
+-----
+
 ## ⚙️ How to Run
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone [https://github.com/MahdisSep/U-Net-Facial-Image-Denoising.git]
     cd U-Net-Facial-Image-Denoising
     ```
 2.  **Dataset Setup:** Obtain the `fer2013.csv` file (e.g., from Kaggle or other sources) and place it in the project root directory.
